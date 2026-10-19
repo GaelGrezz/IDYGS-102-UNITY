@@ -429,7 +429,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ControlPelota
   velocidadHorizontal: 2
-  fuerzaImpulso: 25
+  fuerzaImpulso: 10
 --- !u!1 &771891885
 GameObject:
   m_ObjectHideFlags: 0
